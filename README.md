@@ -4,4 +4,5 @@
 
 # 求解
 
-使用商业软件Fluent和LBM求解。
+使用Fluent和MATLAB求解。
+使用MATLAB求解时，直接运行`LBM.m`即可。
